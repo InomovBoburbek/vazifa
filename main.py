@@ -41,7 +41,7 @@ async def send_help_message(message: types.Message, state_name: str):
             " **Ism kiritish**:\n"
             "- To'liq ism va familiya (kamida 3 harf).\n"
             "- Faqat harflar va bo'sh joy.\n"
-            "Misol: Sardorbek Xojimatov"
+            "Misol: Boburbek inomov"
         ),
         "tel_nomer": (
             " **Telefon raqami kiritish**:\n"
